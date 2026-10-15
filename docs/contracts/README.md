@@ -11,7 +11,7 @@ Reference documentation for every on-chain entrypoint exposed by the contracts i
 | [`circuit_breaker`](./circuit_breaker.md) | Global pause switch for protocol operations | 5 | partial |
 | [`escrow`](./escrow.md) | Escrow with arbitration | 6 | full |
 | [`payment_channel`](./payment_channel.md) | Bidirectional micro-payment channels | 6 | full |
-| [`price_oracle`](./price_oracle.md) | Signed price feeds with stalemess checks | 5 | partial |
+| [`price_oracle`](./price_oracle.md) | Signed price feeds with staleness checks | 5 | partial |
 | [`rate_limiter`](./rate_limiter.md) | Per-account rate limiting | 5 | full |
 
 ## Conventions
