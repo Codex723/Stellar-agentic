@@ -37,8 +37,6 @@ jobs:
   release:
     name: Publish @stellaragent packages to npm
     runs-on: ubuntu-latest
-    outputs:
-      published: ${{ steps.publish.outputs.published }}
     steps:
       - uses: actions/checkout@v5
         with:

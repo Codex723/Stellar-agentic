@@ -6,6 +6,5 @@
   ],
   "access": "public",
   "baseBranch": "main",
-  "updateInternalDependencies": "always",
-  "___excludePrerelease": false
+  "updateInternalDependencies": "always"
 }
